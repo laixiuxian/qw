@@ -1,0 +1,419 @@
+*{
+	margin:0;
+	padding:0;
+	margin:0 auto;
+}
+a{
+ text-decoration:none;
+}
+ul,ol,li{
+	list-style-type:none;
+}
+/*头部标签开始*/
+header{
+	width:1140px;
+	height:202px;
+	border:1px white solid;
+	margin:0 auto;
+}
+.h-z{
+	width:135px;
+	height:35px;
+	float:left;
+	margin-top:124px;	
+}
+span{
+	font-size:35px;
+	font-family:黑体;
+}
+.h-y {
+	width:505px;
+	height:45px;
+	margin-left:630px;	
+	margin-top:124px;
+	
+}
+.y-q{
+	width:74px;
+	height:45px;
+	margin-left:5px;
+	line-height:43px;
+	text-align:center;
+	border-radius:20px;
+	float:left;	
+}
+.y-c{
+	width:64px;
+	display:none;
+	position:relative;
+	top:10px;
+	left:2px;
+}
+.y-q:hover .y-c{
+	background-color:blue;
+	display:block;
+	
+}
+/*鼠标悬停的样式*/
+.y-q:hover{
+	background-color:green;
+}
+/*头部标签结束*/
+hr{
+	width:100%;
+	height:1px;
+}
+/*广告*/
+.gg{
+	width:1582px;
+	height:985px;
+	
+}
+/*gg字体框*/
+.gg-z{
+	width:1582px;
+	height:345px;
+	
+}
+.gg-zz{
+	font-size:70px;
+	font-family:宋体;
+	text-align:center;
+	margin-top:40px;
+}
+/*下盒子*/
+.x-a{
+	width:1140px;
+	height:510px;
+	
+	
+}
+/*gg左盒子*/
+.x-s{
+	width:555px;
+	height:510px;
+	
+	float:left;
+	background-image:url(images/image_6.jpg);
+}
+/*右盒子的上盒*/
+.x-y{
+	width:520px;
+	height:240px;
+	
+	float:left;
+	margin-left:58px;
+	background-image:url(images/image_2.jpg);
+	background-size:100% 100%;
+}
+/*右图左*/
+.y-2{
+	width:245px;
+	height:230px;	
+	
+	float:left;
+	margin-top:35px;
+	margin-left:58px;
+	background-image:url(images/image_3.jpg);
+	background-size:100% 100%;	
+}
+/*右图右*/
+.y-3{
+	width:245px;
+	height:230px;
+	
+	float:left;
+	margin-left:28px;
+	margin-top:35px;
+	background-image:url(images/image_8.jpg);
+	background-size:100% 100%;
+}
+.x-ss{
+	margin-top:420px;	
+}
+.x-yy{
+	margin-top:150px;
+}
+.y-22,.y-33{
+	margin-top:150px;
+}
+h2,h6{
+	margin-left:40px;
+}
+h2{
+	color:white;
+}
+h6{
+	color:#657D86;
+}
+/*广告标签结束*/
+/*主体1开始*/
+nav{
+	width:1582px;
+	height:708px;
+	background: linear-gradient(45deg, #1fb57b 0%, #258dc8 100%);
+}
+/*1上盒子*/
+/*字体*/
+.n-zz{
+	font-size:20px;
+	color:#cbe9dd;
+	margin-top:100px;
+}
+.n-z{
+	font-size:20px;
+	color:white;
+	text-align:center;
+	padding-top:100px;
+}
+/*1下盒子*/
+.zii{
+	color:white;
+	font-size:20px;
+	text-align:center;
+}
+.iii{
+	color:grey;
+	text-align:center;
+}
+.zzm,.wal,.mr{
+	text-align:center;
+}
+/*左图开始*/
+.zzm{
+	width:354px;
+	height:439px;	
+	float:left;
+	margin-left:225px;
+	margin-top:50px;
+	
+}
+/*左图结束*/
+
+/*中图*/
+.wal{
+	width:354px;
+	height:439px;	
+	float:left;
+	margin-left:36px;
+	margin-top:50px;
+}
+/*中图结束*/
+
+/*右图*/
+.mr{
+	width:354px;
+	height:439px;	
+	float:left;
+	margin-left:36px;
+	margin-top:50px;
+}
+/*右图结束*/
+/*主体1结束*/
+
+/*主题2开始*/
+section{
+	width:1582px;
+	height:1083px;
+	background-color:#f4f4f6;
+}
+/*左图*/
+.ii-pp{
+	width:360px;
+	height:629px;
+	background-color:white;
+	float:left;
+	margin-top:87px;
+	margin-left:224px;
+	
+}
+/*左图结束*/
+/*中图*/
+.ii-oo{
+	width:360px;
+	height:656px;
+	background-color:white;
+	float:left;
+	margin-top:87px;
+	margin-left:30px;
+}
+/*zh图结束*/
+/*右图*/
+.ii-op{
+	width:360px;
+	height:629px;
+	background-color:white;
+	float:left;
+	margin-top:87px;
+	margin-left:30px;
+}
+/*右图结束*/
+.xfk{
+	width:122px;
+	height:48px;
+	border-radius:20px;
+	margin-top:55px;
+	
+}
+.xfk:hover{
+	background-color:green;
+}
+.xfk-q{
+	text-align:center;
+	padding-top:12px;
+}
+/*字体*/
+.s-m{
+	font-size:28px;
+	text-align:center;
+	padding-top:100px;
+}
+.s-mm{
+	color:#85889e;
+	text-align:center;
+}
+.mmm{
+	color:black;
+	text-align:center;
+	font-size:25px;
+}
+.o-7{
+	color:grey;
+	text-align:center;
+	padding-top:35px;
+}
+/*主体2结束*/
+
+
+/*主体3开始*/
+.zhu3{
+	width:1582px;
+	height:707px;
+}
+/*3上盒*/
+
+/*3左下盒*/
+.z-w{
+	width:557px;
+	height:340px;
+	background-color:#f4f4f6;
+	float:left;	
+	margin-top:-30px;
+}
+.pp-p{
+	width:560px;
+	height:400px;
+	float:left;
+	margin-left:224px;
+	margin-top:45px;
+}
+/*3左下盒结束*/
+.uu-uu{
+	width:90px;
+	height:90px;
+	background-color:white;
+	border-radius:50%;
+	position:relative;
+	top:10px;
+	font-size:100px;
+	line-height:50px;
+	text-align:center;
+	font-family:华文彩云;
+}
+.o-77{
+	color:grey;
+	text-align:center;
+	padding-top:40px;
+	font-size:25px;
+}
+.athen{
+	text-align:center;
+	font-size:30px;
+	margin-top:10px;
+}
+/*3右下盒*/
+.ll-o{
+	width:557px;
+	height:340px;
+	background-color:#f4f4f6;
+	float:left;	
+	margin-top:-30px;
+}
+.llo{
+	width:560px;
+	height:400px;
+	float:left;
+	margin-left:30px;
+	margin-top:45px;
+}
+.b{
+	color: orange;
+	font-size:40px;
+}
+
+/*3右下盒结束*/
+/*主体3结束*/
+/*页脚*/
+
+.yjj{
+	width:1582px;
+	height:684px;
+	background-color:#262626;
+	position:relative;
+}
+.f-f{
+	width:1082px;
+	height:256px;
+	background-color:pink;
+	position:absolute;
+	top:50%;
+	left:50%;
+	margin-top:-260px;
+	margin-left:-541px;
+	
+}
+.f--z{
+	width:266px;
+	height:209px;
+	border:1px red solid;
+	float:left;	
+}
+.f--zh{
+	width:182px;
+	height:209px;
+	border:1px red solid;
+	float:left;
+	margin-left:30px;
+}
+.f--yz{
+	width:234px;
+	height:209px;
+	border:1px red solid;
+	float:left;
+	margin-left:30px;
+}
+.f--y{
+	width:170px;
+	height:209px;
+	border:1px red solid;
+	float:left;
+	margin-left:30px;
+	
+}
+.ff-x{
+	width:676px;
+	height:86px;
+	border:1px red solid;
+	position:absolute;
+	margin-top:500px;
+	margin-left:465px;
+}
+
+
+
+
+
+
+
+
+
